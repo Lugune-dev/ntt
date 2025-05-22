@@ -1,0 +1,505 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:06] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:06] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:24] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: i need help
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:24] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:42] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: i need services
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:42] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:58] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: i need offer
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:04:58] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:05:15] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: i need discount
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:05:15] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:06:58] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:06:58] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:32:48] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: heloo
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:32:48] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:32:57] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:32:57] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:37:15] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:37:15] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:37:59] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:37:59] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:38:10] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: yes
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:38:10] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:43:29] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:43:29] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:45:00] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: heloo
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:45:00] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:45:09] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: how
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:45:09] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:45:34] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:45:34] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:48:22] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:48:22] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:48:56] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:48:56] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:08:54] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hi
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:08:54] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:09:03] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: tour
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:09:03] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:09:29] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: mention that tour
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:09:29] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:10:13] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: car hire
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:10:13] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:10:28] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: car hire
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:10:28] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:12:43] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: hi
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:12:43] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:12:57] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: car
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:12:57] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:13:10] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User query: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:13:10] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:27:00] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hi
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:27:00] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:27:11] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:27:11] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:27:40] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how i  can book
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:27:40] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:31:34] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:31:34] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:32:04] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:32:04] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:32:13] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:32:13] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:32:31] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how to book
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:32:31] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:35:07] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thank you
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:35:07] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:09] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:09] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:19] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: tour
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:19] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:30] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: booking
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:30] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:52] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how to book
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:43:52] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:45:00] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:45:00] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:45:26] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hi
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:45:26] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:45:38] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hotel
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:45:38] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:46:01] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how i can book
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:46:01] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:46:26] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:46:26] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:46:47] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: i like
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:46:47] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:47:16] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: shikamoo
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:47:16] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:52:25] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: goodbye
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 01:52:25] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:07:05] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:07:05] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:07:22] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thak u
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:07:22] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:07:32] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thank you
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:07:32] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:12:33] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thank you
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:12:33] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:12:46] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: sorry
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:12:46] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:13:04] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:13:04] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:13:55] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:13:55] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:21:30] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:21:30] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:22:24] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:22:24] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:27:13] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User (so): habari -> news
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:27:15] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:27:33] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User (nl): hello -> hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:27:35] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:27:55] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User (so): habari -> news
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:27:58] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:28:06] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User (lv): visa -> visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:28:09] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:14] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thank you
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:14] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:23] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:23] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:37] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: tour
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:37] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:59] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: appointment
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:29:59] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:30:16] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hotel
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:30:16] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:30:32] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: car
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:30:32] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:31:44] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: airport
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:31:44] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:31:56] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: ticketing
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:31:56] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:35:05] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:35:05] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:35:21] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: ticketing
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:35:21] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:35:34] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: airport
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:35:34] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 101-006-581
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:45:06] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:45:06] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:45:20] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: airpot
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:45:20] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:45:35] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: airport
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:45:35] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:46:02] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thanks
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 02:46:02] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:20:24] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User: heloo
+ERROR:root:OpenAI API error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:20:24] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:25:12] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:25:12] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:26:56] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: tours
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:26:56] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:33:41] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:33:41] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:33:52] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:33:52] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:34:04] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:34:04] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:04] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:04] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:16] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:16] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:23] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: yes
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:23] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:33] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:33] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:52] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:40:52] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:43:08] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:root:Translated message: News
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:43:16] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:45:44] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:Original user message: hi
+INFO:root:Translated message: hi
+INFO:root:Response (intent match): 👋 Hello! Welcome to Nival Travel and Tours. How can I help you today?
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:45:48] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:46:03] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:Original user message: visa processing
+INFO:root:Translated message: visa processing
+INFO:root:Response (intent match): 🛂 Need a visa? We help with processing, paperwork, and embassy appointments.
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:46:07] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:46:27] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:Original user message: how to book
+INFO:root:Translated message: how to book
+INFO:root:Response: 👌 Okay!
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:46:31] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:49:54] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:49:58] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:08] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how to book
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:11] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:21] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:26] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:39] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: i need visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:44] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:50:58] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: thank you
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:51:02] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:51:10] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:51:15] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:59:13] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:59:26] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:59:41] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hotel booking
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 09:59:44] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:01:40] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hotel
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:01:44] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:01:56] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: okay
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:02:00] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:02:07] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:02:12] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:05:10] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: habari
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:05:13] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/html/ntt/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 863-957-109
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:05] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hey
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:06] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:18] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: what about visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:22] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:35] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: how to book
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:38] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:51] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: asante
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:09:54] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:55:18] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 10:55:21] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 12:39:19] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hi
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 12:39:27] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 18:07:14] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: hello
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 18:07:34] "POST /chat HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 18:08:53] "OPTIONS /chat HTTP/1.1" 200 -
+INFO:root:User said: visa
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 18:08:56] "POST /chat HTTP/1.1" 200 -
